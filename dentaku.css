@@ -1,0 +1,30 @@
+body{
+	font-size: 50px;
+	font-family: meiryo sans-serif;
+	text-align: center;
+}
+
+
+span{
+	font-weight: bold;
+}
+
+input{
+	height: 100px;
+	width: 100px;
+	font-size:50px;
+	text-align:center;
+}
+
+#submit{
+	margin-top: 20px;
+}
+
+#enzanshi{
+	border:1px;
+	font-size: 50px;
+}
+
+#ps{
+	font-size: 20px;
+}
